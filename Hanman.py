@@ -2,7 +2,7 @@ from random import choice
 
 
 def run_game():
-    word: str = choice(['spple', 'secret', 'banana','happy', 
+    word: str = choice(['apple', 'secret', 'banana','happy', 
                         'bright', 'cloud', 'river', 'magic', 'dream', 'star',
                         'rain', 'calm', 'green', 'smile', 'light', 'friend', 
                         'song', 'ocean', 'warm', 'peace', 'shine', 'clear'])
